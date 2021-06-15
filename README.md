@@ -2,5 +2,4 @@
 
 Example of pdf reports building with [Reportlab](https://https://www.reportlab.com/) as main dependency.
 
-
-Outpu example [here](https://https://github.com/EkoTunde/reportlab_example/blob/master/src/example.pdf).
+Output example [here](https://github.com/EkoTunde/reportlab_example/blob/master/src/example.pdf).
